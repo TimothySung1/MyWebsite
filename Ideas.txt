@@ -1,0 +1,17 @@
+Header has multiple buttons: Experience/Projects, Education, About, Contact. LinkedIn and github on the right
+
+Body contains a welcome: "Hello, I'm Timothy Sung. Computer Science student."
+  - explain more in detail in smaller font
+
+Scroll down to see some details about projects, edu, about, etc.
+
+
+Experience/Projects:
+Contains a link to github
+Outline certain projects: Sudoku Solver, Poker (finish at least most of it before), doggy road
+
+Education: Copy resume stuff here pretty much
+
+About: Resume stuff here. Add more detail about what I want to be/code. 
+
+Contact: basic stuff.
